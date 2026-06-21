@@ -33,4 +33,4 @@ Currently, I work as an Analytics Engineer at **Capacity**, building AI-assisted
 Before Capacity, I worked across product analytics, operations consulting, and data advisory roles at **CuraFitt, Kering, PwC India, and Ganit Inc.** I have built customer intelligence models, churn reduction analytics, robust AWS data architectures, and pricing dashboards for diverse business and operations teams.
 
 ---
-📫 **Let's Connect:** [https://www.linkedin.com/in/vedant-athavale/] | [thebrownfella.com]
+📫 **Let's Connect:** [https://www.linkedin.com/in/vedant-athavale/] | [https://thebrownfella.com]
