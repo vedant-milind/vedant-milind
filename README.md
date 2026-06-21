@@ -4,15 +4,15 @@ I am a Data & Analytics professional with experience across retail, consulting, 
 
 Basically, I work in the space where raw data stops being a spreadsheet monster and starts becoming measurable business impact. I turn messy business problems into clean data stories, scalable analytics systems, and decisions people can actually use.
 
-### 💼 What I'm Doing Now
+### What I'm Doing Now
 Currently, I work as an Analytics Engineer at **Capacity**, building AI-assisted analytics workflows, executive reporting models, pricing intelligence, and operational performance solutions across a $32M portfolio. 
 
 **Recent Impact:**
-* 📉 Reduced operational errors by **85%**
-* ⏱️ Shortened pricing/reporting cycles by **5 days**
-* 💰 Prevented over **$131K** in avoidable operational costs
+* Reduced operational errors by **85%**
+* Shortened pricing/reporting cycles by **5 days**
+* Prevented over **$131K** in avoidable operational costs
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 **Data & Analytics:**
 * `SQL` | `Python` | `BigQuery` | `AWS (Athena, S3)`
@@ -29,7 +29,7 @@ Currently, I work as an Analytics Engineer at **Capacity**, building AI-assisted
 * Churn Analytics | Supply Chain & Product Analytics
 * Executive-Level Decision Support
 
-### 🕰️ Background
+### Background
 Before Capacity, I worked across product analytics, operations consulting, and data advisory roles at **CuraFitt, Kering, PwC India, and Ganit Inc.** I have built customer intelligence models, churn reduction analytics, robust AWS data architectures, and pricing dashboards for diverse business and operations teams.
 
 ---
